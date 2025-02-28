@@ -1,4 +1,4 @@
-(() => {
+(() => { 
     let apiURL = "https://mhw-db.com/monsters/";
         let id = Math.floor(Math.random() * (61 - 1) + 1);
         apiURL += id;
